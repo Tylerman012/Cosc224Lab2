@@ -1,5 +1,5 @@
 Brandons Animals
-Falcon
-Stugeon
-Komodo Dragon
-Monkeys
+1. Falcon
+2. Stugeon
+3. Komodo Dragon
+4. Monkeys
