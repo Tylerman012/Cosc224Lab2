@@ -1,1 +1,23 @@
-Animals-all.txt
+Tyler's Animals
+1. Eagle
+2. Rainbow Trout
+3. Gecko
+4. Moose
+
+Fernanda's Animals
+1. Duck
+2. Cod
+3. Komodo dragon
+4. Whale
+
+Angies Animals
+1. Blue-footed booby
+2. Trout
+3. Crocodile
+4. Platypus
+
+Brandons Animals
+1. Falcon
+2. Sturgeon
+3. Komodo Dragon
+4. Monkeys
