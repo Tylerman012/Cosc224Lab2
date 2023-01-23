@@ -1,5 +1,5 @@
 Fernanda's Animal
-Duck
-Cod
-Komodo dragon
-Whale
+1. Duck
+2. Cod
+3. Komodo dragon
+4. Whale
